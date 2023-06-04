@@ -1,4 +1,5 @@
-## 🌀Dmitry Gorban - Ukraine
-💡 Hello! I am 19 years old and studying programming on JetBrains Hyperskill Academy. I am learning to building Java Software.
+## 🌀Dmytro Horban - Ukraine
+
+💡 Hello! I am 22 years old. Work in EPAM Software(Ukraine) as Java Software Engineer. Here is my study material and other staff.
 
 💾 Previously I was working with logo design, but now my scope is programming. I really like it.
